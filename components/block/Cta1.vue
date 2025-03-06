@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import type { TBackground, TSpacing, TButton } from "~~/types"
 import { CheckIcon } from "lucide-vue-next"
 
 interface Props {

@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import type { TBackground, TSpacing, TContact } from "~~/types";
 import { MapPin } from "lucide-vue-next";
 
 interface Props {

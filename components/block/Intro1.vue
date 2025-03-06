@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import type { TAnimationOptions, TBackground, TButton, TSize, TSpacing } from "~~/types"
-
 interface Props {
 	id: string
   name?: string

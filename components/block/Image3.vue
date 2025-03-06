@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import type { TBackground, TImage, TIntro, TSpacing } from "~~/types"
-
 interface Props {
 	id: string
   spacing: TSpacing

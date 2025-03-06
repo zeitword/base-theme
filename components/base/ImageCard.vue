@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import { NuxtLink } from "#components"
-import type { TCard } from "~~/types"
-
 type Props = TCard
 
 const {

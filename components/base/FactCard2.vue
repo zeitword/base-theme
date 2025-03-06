@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import type { TFactCard } from "~~/types"
-
 const { number, animated = false, description } = defineProps<TFactCard>()
 </script>
 

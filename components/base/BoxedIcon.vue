@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import type { TIcon } from '~~/types';
 
 type Props = {
   icon?: TIcon

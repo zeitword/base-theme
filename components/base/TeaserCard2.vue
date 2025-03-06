@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { NuxtLink } from "#components"
-import type { TBaseCard } from "~~/types"
 
 const {
   icon = "",

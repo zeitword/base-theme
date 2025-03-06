@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-import type { TAnimationOptions } from "~~/types"
 
 type Props = {
   animation?: TAnimationOptions

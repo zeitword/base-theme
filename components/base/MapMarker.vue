@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { MapPin, WavesIcon } from "lucide-vue-next"
-import type { TMarkerLocation } from "~~/types"
 
 enum TLocationType {
   PORT = "port",

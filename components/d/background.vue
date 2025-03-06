@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import type { TBackground } from "~~/types"
-
 type Props = TBackground
 
 const { color = "neutral" } = defineProps<Props>()

@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import type { TImage, TMarkerLocation } from "~~/types"
 
 type Props = {
   image: TImage
